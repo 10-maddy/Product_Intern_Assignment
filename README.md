@@ -25,7 +25,7 @@ The detailed project report can be found here. It provides a comprehensive analy
 ## Acknowledgments
 - ChatGPT for providing ideas and guidance during the analysis.
 - Stack Overflow and Google for code snippets and solutions to coding challenges.
-- My friends who are fluent in this
+- My friends who are fluent in python coding.
 
 ## Author
 Tanmay Shresth
