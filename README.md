@@ -5,7 +5,7 @@ This project involves the analysis of Superstore sales data with a focus on the 
 
 ## Dataset
 - The Superstore sales dataset contains information about sales of office supplies, furniture, and technology products.
-- The dataset is publicly accessible and can be found at [Tableau Community](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls))
+- The dataset is publicly accessible and can be found at [Tableau Community](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
 
 - **Report**: This folder contains the project report summarizing the analysis, findings, conclusions, and recommendations. The report is written in markdown format and includes visual aids and charts.
 
